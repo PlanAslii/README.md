@@ -1,156 +1,101 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<!--                           HERO                                  -->
+<!--                         HERO                                  -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/PlanAslii">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=PLANASLII&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=PYTHON%20DEVELOPER%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20OPEN%20SOURCE&descSize=16&descAlignY=56&animation=fadeIn&color=0:020617,25:0F172A,50:075985,75:0284C7,100:06B6D4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=PLANASLII&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%20%E2%80%A2%20%20AUTOMATION%20%20%E2%80%A2%20%20OPEN%20SOURCE&descSize=15&descAlignY=55&animation=fadeIn&color=0:020617,20:0B1120,45:0F3B61,70:0077B6,100:00D9FF" width="100%"/>
 
 </a>
 
 <br>
 
-<!-- TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=55&lines=Building+useful+software+with+Python;Automation+%7C+Telegram+%7C+Cloud;Turning+ideas+into+working+projects;Code.+Automate.+Improve.+Repeat." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Python+Developer;Automation+%26+Developer+Tools;Telegram+Bot+Developer;Cloud+%26+DevOps+Enthusiast;Building+useful+things+with+code." alt="Typing Animation"/>
 
 <br><br>
-
-<!-- PROFILE BADGES -->
 
 <a href="https://github.com/PlanAslii">
 <img src="https://komarev.com/ghpvc/?username=PlanAslii&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 </a>
 
+ 
+
 <a href="https://github.com/PlanAslii?tab=followers">
-<img src="https://img.shields.io/github/followers/PlanAslii?style=for-the-badge&color=0369A1&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/followers/PlanAslii?style=for-the-badge&color=0369A1&label=FOLLOWERS&logo=github&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://github.com/PlanAslii?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         INTRO                                  -->
+
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1400&color=64748B&center=true&vCenter=true&width=700&height=35&lines=Code+%E2%86%92+Automate+%E2%86%92+Improve+%E2%86%92+Repeat;Turning+ideas+into+real+working+projects." alt="Intro"/>
 
 </div>
 
 <br>
 
 ---
-
-<div align="center">
-
-## `> Hello, World!`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1300&color=94A3B8&center=true&vCenter=true&width=720&height=40&lines=Developer+%7C+Builder+%7C+Problem+Solver;I+build+tools+that+solve+real+problems.;Currently+exploring+automation%2C+cloud+and+developer+tools." alt="Introduction"/>
-
-</div>
-
-<br>
 
 ## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-```yaml
-name: PlanAslii
-role: Python Developer
+<td width="58%" valign="top">
 
-interests:
-  - Automation
-  - Telegram Bots
-  - Developer Tools
-  - Cloud & DevOps
-  - Open Source
+### Building things that matter.
 
-philosophy:
-  - Keep it useful
-  - Keep it simple
-  - Keep improving
+I'm a Python developer focused on **automation, Telegram tools, cloud infrastructure and practical developer utilities**.
+
+I like taking an idea, turning it into something useful, and continuously improving it.
+
+<br>
+
+```text
+╭────────────────────────────────────╮
+│  BUILD                             │
+│  AUTOMATE                          │
+│  EXPERIMENT                        │
+│  IMPROVE                           │
+╰────────────────────────────────────╯
 ```
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,docker&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,docker&theme=dark&perline=2"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING-00D9FF?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/LEARNING-38BDF8?style=for-the-badge&labelColor=0F172A"/>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00D9FF?style=for-the-badge&labelColor=0B1220"/>
 
 <br>
 
----
-
-## ⚡ What I Do
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🐍
-
-**Python**
-
-Automation
-APIs
-Utilities
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤖
-
-**Telegram**
-
-Bots
-Automation
-Tools
-
-</td>
-
-<td width="25%" align="center">
-
-### ☁️
-
-**Cloud**
-
-Cloudflare
-Railway
-Linux
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚙️
-
-**DevTools**
-
-CLI
-Scripts
-Open Source
+<img src="https://img.shields.io/badge/BUILDING-TOOLS-0284C7?style=for-the-badge&labelColor=0B1220"/>
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -160,27 +105,80 @@ Open Source
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,php,bash&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,php,bash,linux,git,github,docker,cloudflare,railway,telegram,vscode&theme=dark&perline=11"/>
 
 <br><br>
 
-### Development
+<img src="https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-00D9FF?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-00D9FF?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-00D9FF?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-00D9FF?style=flat-square&logo=cloudflare&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
+</div>
 
-<br><br>
+<br>
 
-### Cloud & Infrastructure
+---
 
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,railway&theme=dark&perline=4" />
+## ⚡ What I Build
 
-<br><br>
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+### Python
+
+Automation
+APIs
+Utilities
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=telegram&theme=dark"/>
 
 ### Telegram
 
-<img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
+Bots
+Services
+Automation
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark"/>
+
+### Cloud
+
+Workers
+Hosting
+Infrastructure
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark&perline=2"/>
+
+### DevOps
+
+Linux
+Docker
+Deployment
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -203,7 +201,7 @@ Open Source
 
 <a href="https://github.com/PlanAslii/railway-telegram-bot-installer">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -215,15 +213,17 @@ Open Source
 
 <br>
 
-A CLI-based installer designed to simplify deploying Telegram bots on Railway.
+A lightweight CLI installer designed to simplify the deployment of Telegram bots on Railway.
 
-**Highlights**
+<br>
 
-* Automated setup
-* Railway deployment
+**Features**
+
+* Automated deployment
 * Region selection
-* Simple CLI workflow
-* Developer-focused
+* Easy configuration
+* CLI workflow
+* Developer friendly
 
 </td>
 
@@ -235,7 +235,7 @@ A CLI-based installer designed to simplify deploying Telegram bots on Railway.
 
 <a href="https://github.com/PlanAslii/vira-v2ray-configs">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -247,9 +247,11 @@ A CLI-based installer designed to simplify deploying Telegram bots on Railway.
 
 <br>
 
-An automated configuration project focused on collecting, filtering and testing V2Ray configurations.
+An automated configuration project focused on collecting, organizing, filtering and testing configurations.
 
-**Highlights**
+<br>
+
+**Features**
 
 * Automated updates
 * Configuration filtering
@@ -268,13 +270,13 @@ An automated configuration project focused on collecting, filtering and testing 
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/PlanAslii">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PlanAslii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1220&title_color=00D9FF&icon_color=38BDF8&text_color=CBD5E1"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PlanAslii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1220&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&custom_title=GitHub%20Statistics" height="180"/>
 
 </a>
 
@@ -282,7 +284,7 @@ An automated configuration project focused on collecting, filtering and testing 
 
 <a href="https://github.com/PlanAslii">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlanAslii&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=00D9FF&text_color=CBD5E1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlanAslii&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&custom_title=Most%20Used%20Languages" height="180"/>
 
 </a>
 
@@ -294,7 +296,7 @@ An automated configuration project focused on collecting, filtering and testing 
 
 <a href="https://github.com/PlanAslii">
 
-<img src="https://streak-stats.demolab.com?user=PlanAslii&hide_border=true&background=0B1220&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=PlanAslii&hide_border=true&background=0B1220&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180"/>
 
 </a>
 
@@ -310,7 +312,7 @@ An automated configuration project focused on collecting, filtering and testing 
 
 <a href="https://github.com/PlanAslii">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PlanAslii&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PlanAslii&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
 
 </a>
 
@@ -326,7 +328,7 @@ An automated configuration project focused on collecting, filtering and testing 
 
 <a href="https://github.com/PlanAslii">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PlanAslii&bg_color=0B1220&color=67E8F9&line=0284C7&point=FFFFFF&area_color=075985&area=true&hide_border=true&custom_title=PlanAslii%27s%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PlanAslii&bg_color=0B1220&color=67E8F9&line=0284C7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 </a>
 
@@ -342,7 +344,11 @@ An automated configuration project focused on collecting, filtering and testing 
 
 <a href="https://github.com/PlanAslii">
 
-<img src="https://raw.githubusercontent.com/PlanAslii/PlanAslii/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PlanAslii/PlanAslii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PlanAslii/PlanAslii/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/PlanAslii/PlanAslii/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake">
+</picture>
 
 </a>
 
@@ -352,7 +358,7 @@ An automated configuration project focused on collecting, filtering and testing 
 
 ---
 
-## 🎯 Currently Building
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -361,34 +367,28 @@ An automated configuration project focused on collecting, filtering and testing 
 
 <td width="33%" align="center">
 
-### ⚙️
-
-**Automation**
+### ⚙️ Automation
 
 Building tools that
-remove repetitive work.
+eliminate repetitive work.
 
 </td>
 
 <td width="33%" align="center">
 
-### ☁️
+### ☁️ Cloud
 
-**Cloud Tools**
-
-Exploring lightweight
+Exploring modern
 cloud infrastructure.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🤖
+### 🤖 Telegram
 
-**Bots**
-
-Creating useful and
-practical Telegram tools.
+Creating practical
+Telegram-based tools.
 
 </td>
 
@@ -401,25 +401,25 @@ practical Telegram tools.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/PlanAslii">
 
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-PlanAslii-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 <a href="https://t.me/viraconfigs">
 
-<img src="https://img.shields.io/badge/Vira%20Channel-0B1220?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Telegram-Vira%20Channel-0B1220?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
 
 </a>
 
 <a href="https://t.me/vira_boxbot">
 
-<img src="https://img.shields.io/badge/Vira%20Bot-0B1220?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Telegram-Vira%20Bot-0B1220?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
 
 </a>
 
@@ -429,10 +429,10 @@ practical Telegram tools.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting+my+profile.;Explore+the+repositories+below.;Build+%E2%80%A2+Learn+%E2%80%A2+Improve" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting+my+profile.;Explore+my+projects+and+repositories.;Build+%E2%80%A2+Learn+%E2%80%A2+Improve." alt="Footer"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:06B6D4,25:0284C7,50:075985,75:0F172A,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:00D9FF,25:0284C7,50:075985,75:0F172A,100:020617" width="100%"/>
 
 </div>
